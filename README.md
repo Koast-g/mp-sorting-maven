@@ -4,7 +4,7 @@ An exploration of sorting in Java.
 
 Authors
 
-* Your name here.
+* Kostiantyn Tsymbal
 * Samuel A. Rebelsky (starter code)
 
 Acknowledgements
@@ -15,8 +15,9 @@ This code may be found at <https://github.com/USERNAME/mp-sorting-maven>. The or
 
 Description of custom sorting algorithm
 ---------------------------------------
+This projects is design to learn how to implement veriety of different sorting algorythms like merge, insetion, selection, and quick sort.
 
 Notes on using Copilot (or other AI)
 ------------------------------------
-
+I used in class readings about sorting algorythms
 _This section is optional_
